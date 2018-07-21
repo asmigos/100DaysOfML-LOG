@@ -17,7 +17,7 @@
 
 **Thoughts** : Hopefully I will be able to implement some Machine Learning Algorithms from now on.
 
-## Day 3 : July 20 , 2018
+## Day 3 : July 21 , 2018
  
 **Today's Progress** : I have completed Multi Layer Perceptron, Convolutional Neural Network and several architectures like VGG, ResNet, Inception and Xception in Deep Learning and some parts of Reinforcement Learning.
 
