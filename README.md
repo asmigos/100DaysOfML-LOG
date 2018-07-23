@@ -23,3 +23,8 @@
 
 **Thoughts** : CNNs much much better than MLPs and also Xceptions reveals greater accuracy!
 
+## Day 4 : July 22 , 2018
+ 
+**Today's Progress** : I have completed problems covered by Reinforcement Learning of Convolution neural Network.
+
+**Thoughts** : According to me RL better than CNN!
