@@ -28,3 +28,15 @@
 **Today's Progress** : I have completed problems covered by Reinforcement Learning of Convolution neural Network.
 
 **Thoughts** : According to me RL better than CNN!
+
+## Day 5 : July 23 , 2018
+ 
+**Today's Progress** : I have started coding in Keras with TensorFlow Backend.
+
+**Thoughts** : Enjoyed first day of coding!
+
+## Day 6 : July 24 , 2018
+ 
+**Today's Progress** : I have started with Dynamic Programming of Reinforcement Learning .
+
+**Thoughts** : A bit confused!
