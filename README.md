@@ -40,3 +40,9 @@
 **Today's Progress** : I have started with Dynamic Programming of Reinforcement Learning .
 
 **Thoughts** : A bit confused!
+
+## Day 6 : July 24 , 2018
+ 
+**Today's Progress** : I have installed OpenAi Gym and studied Bellman Equation of Reinforcement Learning .
+
+**Thoughts** : Understandable!
