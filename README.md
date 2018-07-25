@@ -41,7 +41,7 @@
 
 **Thoughts** : A bit confused!
 
-## Day 6 : July 24 , 2018
+## Day 7 : July 25 , 2018
  
 **Today's Progress** : I have installed OpenAi Gym and studied Bellman Equation of Reinforcement Learning .
 
