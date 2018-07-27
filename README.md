@@ -52,3 +52,9 @@
 **Today's Progress** : I have completed Dynamic Programming Reinforcement Learning .
 
 **Thoughts** : Understandable!
+
+## Day 9 : July 27 , 2018
+ 
+**Today's Progress** : I have chapter 1 of book Reinforcement Learning .
+
+**Thoughts** : Feeling comfortable with RL!
