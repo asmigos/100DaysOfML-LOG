@@ -58,3 +58,9 @@
 **Today's Progress** : I have chapter 1 of book Reinforcement Learning .
 
 **Thoughts** : Feeling comfortable with RL!
+
+## Day 10 : July 28 , 2018
+ 
+**Today's Progress** : I revised some mathematics.
+
+**Thoughts** : Will be able soon to deploy algoritms on own!
