@@ -71,6 +71,23 @@
 
 **Thoughts** : Will be able soon to deploy its algoritms on own!
 
+## Day 12 : July 30 , 2018
+ 
+**Today's Progress** : I implemented many algorithms of dynamic programming.
+
+**Thoughts** : Fun!
+
+## Day 13 : July 31 , 2018
+ 
+**Today's Progress** : Started with Monte Carlo methods.
+
+**Thoughts** : Feeling Great!
+
+## Day 14 : August 1 , 2018
+ 
+**Today's Progress** : Completed lesson 2 of Reinforcement Book.
+
+**Thoughts** : Concepts quite clear!
 
 
 
