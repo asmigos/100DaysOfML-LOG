@@ -55,7 +55,7 @@
 
 ## Day 9 : July 27 , 2018
  
-**Today's Progress** : I have chapter 1 of book Reinforcement Learning .
+**Today's Progress** : I have completed chapter 1 of book Reinforcement Learning .
 
 **Thoughts** : Feeling comfortable with RL!
 
@@ -64,3 +64,13 @@
 **Today's Progress** : I revised some mathematics.
 
 **Thoughts** : Will be able soon to deploy algoritms on own!
+
+## Day 11 : July 29 , 2018
+ 
+**Today's Progress** : Completed Lesson 1 of Natural Language processing.
+
+**Thoughts** : Will be able soon to deploy its algoritms on own!
+
+
+
+
