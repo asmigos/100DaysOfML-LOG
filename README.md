@@ -89,5 +89,9 @@
 
 **Thoughts** : Concepts quite clear!
 
+## Day 15 : August 2 , 2018
+ 
+**Today's Progress** : Completed Monte Carlo Methods.
 
+**Thoughts** : Happy Learning!
 
