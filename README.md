@@ -95,3 +95,22 @@
 
 **Thoughts** : Happy Learning!
 
+## Day 16 : August 3 , 2018
+ 
+**Today's Progress** : Completed Lesson 3 Of RL Book.
+
+**Thoughts** : Nice!
+
+## Day 17 : August 4 , 2018
+ 
+**Today's Progress** : Implemented algorithms on project Frozen Lake.
+
+**Thoughts** : Got to work more!
+
+## Day 18 : August 5 , 2018
+ 
+**Today's Progress** : Continued on Frozen Lake Project.
+
+**Thoughts** : Need more effort!
+
+
