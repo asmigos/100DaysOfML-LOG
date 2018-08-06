@@ -113,4 +113,9 @@
 
 **Thoughts** : Need more effort!
 
+## Day 19 : August 6 , 2018
+ 
+**Today's Progress** : Completed on Frozen Lake Project and started with Black Jack Project.
+
+**Thoughts** : Amazing!
 
