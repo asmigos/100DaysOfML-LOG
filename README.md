@@ -119,3 +119,9 @@
 
 **Thoughts** : Amazing!
 
+## Day 20 : August 7 , 2018
+ 
+**Today's Progress** : Completed Black Jack Project and started with temporal difference methods.
+
+**Thoughts** : Amazing!
+
