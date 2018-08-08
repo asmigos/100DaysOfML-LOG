@@ -125,3 +125,8 @@
 
 **Thoughts** : Amazing!
 
+## Day 21 : August 8 , 2018
+ 
+**Today's Progress** : Completed Temporal Difference methods.
+
+**Thoughts** : Amazing!
