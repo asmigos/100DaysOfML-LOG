@@ -130,3 +130,10 @@
 **Today's Progress** : Completed Temporal Difference methods.
 
 **Thoughts** : Amazing!
+
+## Day 22 : August 9 , 2018
+ 
+**Today's Progress** : Implemented Temporal Difference Algoritms.
+
+**Thoughts** : Understandable!
+
