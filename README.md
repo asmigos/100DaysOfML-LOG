@@ -137,3 +137,9 @@
 
 **Thoughts** : Understandable!
 
+## Day 22 : August 9 , 2018
+ 
+**Today's Progress** : Continued with implementation Temporal Difference Algoritms.
+
+**Thoughts** : Getting a lot of knowledge!
+
