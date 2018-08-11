@@ -143,3 +143,9 @@
 
 **Thoughts** : Getting a lot of knowledge!
 
+## Day 24 : August 11 , 2018
+ 
+**Today's Progress** : Revised all previous stuff.
+
+**Thoughts** : Feeling fantastic!
+
