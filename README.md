@@ -149,3 +149,9 @@
 
 **Thoughts** : Feeling fantastic!
 
+## Day 25 : August 12 , 2018
+ 
+**Today's Progress** : Continued Revision.
+
+**Thoughts** : --
+
